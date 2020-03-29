@@ -38,4 +38,4 @@ sass:
   style: compressed
 future: true
 permalink: /:year/:month/:day/:title
-theme: jekyll-theme-slate
+theme: jekyll-theme-time-machine
